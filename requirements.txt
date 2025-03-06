@@ -1,0 +1,12 @@
+flask==2.3.3
+flask-cors==4.0.0
+authlib==1.2.1
+transformers==4.35.2
+torch==2.1.1
+safetensors==0.4.0
+python-whois==0.8.0
+fpdf==1.7.2
+requests==2.31.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+waitress==2.1.2 
